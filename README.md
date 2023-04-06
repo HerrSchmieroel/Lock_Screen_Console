@@ -4,7 +4,7 @@
 
 # How to download?
 
-## You can download the exe [here](https://github.com/HerrSchmieroel/Lock_Screen_Console/releases/tag/exe) after that just start the program.
+## Currently you can't download an exe i will trying to add an exe in the future.
 
 # Want the password?
 
@@ -12,4 +12,4 @@
 
 # Want the sourcecode?
 
-## On the site where you can download the exe is also a zip of the sourcecode that you can download
+## On the start of the reposetory page is a butten named you click on it and download as ever you want.
