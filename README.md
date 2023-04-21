@@ -4,7 +4,7 @@
 
 # How to download?
 
-## Currently you can't download an exe i will trying to add an exe in the future.
+## Download the exe [here](https://github.com/HerrSchmieroel/Lock_Screen_Console/releases/tag/Console) and run it!
 
 # Want the password?
 
