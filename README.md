@@ -12,4 +12,4 @@
 
 # Want the sourcecode?
 
-## On the start of the reposetory page is a butten named you click on it and download as ever you want.
+## On the start of the repository page is a butten named you click on it and download as ever you want.
